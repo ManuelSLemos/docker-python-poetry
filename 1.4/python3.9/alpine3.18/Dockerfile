@@ -1,0 +1,16 @@
+# #
+# NOTE: THIS DOCKERFILE IS GENERATED VIA "apply-templates.py"
+#
+# PLEASE DO NOT EDIT IT DIRECTLY.
+#
+
+
+FROM python:3.9.16-alpine3.18
+
+ENV POETRY_VERSION=1.4.2 \
+    POETRY_NO_INTERACTION=1 \
+    POETRY_VIRTUALENVS_CREATE=false
+
+RUN pip install "poetry==$POETRY_VERSION"
+
+CMD ["python3"]
