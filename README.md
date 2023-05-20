@@ -9,104 +9,284 @@
 
 ## Simple Tags
 
-* [`1.5.0-python3.12-rc-bullseye`]()
-* [`1.5.0-python3.12-rc-slim-bullseye`]()
-* [`1.5.0-python3.12-rc-buster`]()
-* [`1.5.0-python3.12-rc-alpine3.18`]()
-* [`1.5.0-python3.12-rc-alpine3.17`]()
-* [`1.5.0-python3.11.3-bullseye`]()
-* [`1.5.0-python3.11.3-slim-bullseye`]()
-* [`1.5.0-python3.11.3-buster`]()
-* [`1.5.0-python3.11.3-alpine3.18`]()
-* [`1.5.0-python3.11.3-alpine3.17`]()
-* [`1.5.0-python3.10.11-bullseye`]()
-* [`1.5.0-python3.10.11-slim-bullseye`]()
-* [`1.5.0-python3.10.11-buster`]()
-* [`1.5.0-python3.10.11-alpine3.18`]()
-* [`1.5.0-python3.10.11-alpine3.17`]()
-* [`1.5.0-python3.9.16-bullseye`]()
-* [`1.5.0-python3.9.16-slim-bullseye`]()
-* [`1.5.0-python3.9.16-buster`]()
-* [`1.5.0-python3.9.16-alpine3.18`]()
-* [`1.5.0-python3.9.16-alpine3.17`]()
-* [`1.5.0-python3.8.16-bullseye`]()
-* [`1.5.0-python3.8.16-slim-bullseye`]()
-* [`1.5.0-python3.8.16-buster`]()
-* [`1.5.0-python3.8.16-alpine3.18`]()
-* [`1.5.0-python3.8.16-alpine3.17`]()
-* [`1.5.0-python3.7.16-bullseye`]()
-* [`1.5.0-python3.7.16-slim-bullseye`]()
-* [`1.5.0-python3.7.16-buster`]()
-* [`1.5.0-python3.7.16-alpine3.18`]()
-* [`1.5.0-python3.7.16-alpine3.17`]()
-* [`1.4.2-python3.12-rc-bullseye`]()
-* [`1.4.2-python3.12-rc-slim-bullseye`]()
-* [`1.4.2-python3.12-rc-buster`]()
-* [`1.4.2-python3.12-rc-alpine3.18`]()
-* [`1.4.2-python3.12-rc-alpine3.17`]()
-* [`1.4.2-python3.11.3-bullseye`]()
-* [`1.4.2-python3.11.3-slim-bullseye`]()
-* [`1.4.2-python3.11.3-buster`]()
-* [`1.4.2-python3.11.3-alpine3.18`]()
-* [`1.4.2-python3.11.3-alpine3.17`]()
-* [`1.4.2-python3.10.11-bullseye`]()
-* [`1.4.2-python3.10.11-slim-bullseye`]()
-* [`1.4.2-python3.10.11-buster`]()
-* [`1.4.2-python3.10.11-alpine3.18`]()
-* [`1.4.2-python3.10.11-alpine3.17`]()
-* [`1.4.2-python3.9.16-bullseye`]()
-* [`1.4.2-python3.9.16-slim-bullseye`]()
-* [`1.4.2-python3.9.16-buster`]()
-* [`1.4.2-python3.9.16-alpine3.18`]()
-* [`1.4.2-python3.9.16-alpine3.17`]()
-* [`1.4.2-python3.8.16-bullseye`]()
-* [`1.4.2-python3.8.16-slim-bullseye`]()
-* [`1.4.2-python3.8.16-buster`]()
-* [`1.4.2-python3.8.16-alpine3.18`]()
-* [`1.4.2-python3.8.16-alpine3.17`]()
-* [`1.4.2-python3.7.16-bullseye`]()
-* [`1.4.2-python3.7.16-slim-bullseye`]()
-* [`1.4.2-python3.7.16-buster`]()
-* [`1.4.2-python3.7.16-alpine3.18`]()
-* [`1.4.2-python3.7.16-alpine3.17`]()
+* [`1.5.0-python3.12-rc-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/bullseye/Dockerfile)
+* [`1.5.0-python3.12-rc-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/slim-bullseye/Dockerfile)
+* [`1.5.0-python3.12-rc-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/buster/Dockerfile)
+* [`1.5.0-python3.12-rc-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/alpine3.18/Dockerfile)
+* [`1.5.0-python3.12-rc-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/alpine3.17/Dockerfile)
+* [`1.5.0-python3.11.3-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/bullseye/Dockerfile)
+* [`1.5.0-python3.11.3-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/slim-bullseye/Dockerfile)
+* [`1.5.0-python3.11.3-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/buster/Dockerfile)
+* [`1.5.0-python3.11.3-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/alpine3.18/Dockerfile)
+* [`1.5.0-python3.11.3-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/alpine3.17/Dockerfile)
+* [`1.5.0-python3.10.11-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/bullseye/Dockerfile)
+* [`1.5.0-python3.10.11-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/slim-bullseye/Dockerfile)
+* [`1.5.0-python3.10.11-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/buster/Dockerfile)
+* [`1.5.0-python3.10.11-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/alpine3.18/Dockerfile)
+* [`1.5.0-python3.10.11-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/alpine3.17/Dockerfile)
+* [`1.5.0-python3.9.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/bullseye/Dockerfile)
+* [`1.5.0-python3.9.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/slim-bullseye/Dockerfile)
+* [`1.5.0-python3.9.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/buster/Dockerfile)
+* [`1.5.0-python3.9.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/alpine3.18/Dockerfile)
+* [`1.5.0-python3.9.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/alpine3.17/Dockerfile)
+* [`1.5.0-python3.8.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/bullseye/Dockerfile)
+* [`1.5.0-python3.8.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/slim-bullseye/Dockerfile)
+* [`1.5.0-python3.8.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/buster/Dockerfile)
+* [`1.5.0-python3.8.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/alpine3.18/Dockerfile)
+* [`1.5.0-python3.8.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/alpine3.17/Dockerfile)
+* [`1.5.0-python3.7.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.7/bullseye/Dockerfile)
+* [`1.5.0-python3.7.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/slim-bullseye/Dockerfile)
+* [`1.5.0-python3.7.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/buster/Dockerfile)
+* [`1.5.0-python3.7.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/alpine3.18/Dockerfile)
+* [`1.5.0-python3.7.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/alpine3.17/Dockerfile)
+* [`1.4.2-python3.12-rc-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.12-rc/bullseye/Dockerfile)
+* [`1.4.2-python3.12-rc-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.12-rc/slim-bullseye/Dockerfile)
+* [`1.4.2-python3.12-rc-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.12-rc/buster/Dockerfile)
+* [`1.4.2-python3.12-rc-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.12-rc/alpine3.18/Dockerfile)
+* [`1.4.2-python3.12-rc-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.12-rc/alpine3.17/Dockerfile)
+* [`1.4.2-python3.11.3-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/bullseye/Dockerfile)
+* [`1.4.2-python3.11.3-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/slim-bullseye/Dockerfile)
+* [`1.4.2-python3.11.3-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/buster/Dockerfile)
+* [`1.4.2-python3.11.3-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/alpine3.18/Dockerfile)
+* [`1.4.2-python3.11.3-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/alpine3.17/Dockerfile)
+* [`1.4.2-python3.10.11-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/bullseye/Dockerfile)
+* [`1.4.2-python3.10.11-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/slim-bullseye/Dockerfile)
+* [`1.4.2-python3.10.11-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/buster/Dockerfile)
+* [`1.4.2-python3.10.11-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/alpine3.18/Dockerfile)
+* [`1.4.2-python3.10.11-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/alpine3.17/Dockerfile)
+* [`1.4.2-python3.9.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/bullseye/Dockerfile)
+* [`1.4.2-python3.9.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/slim-bullseye/Dockerfile)
+* [`1.4.2-python3.9.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/buster/Dockerfile)
+* [`1.4.2-python3.9.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/alpine3.18/Dockerfile)
+* [`1.4.2-python3.9.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/alpine3.17/Dockerfile)
+* [`1.4.2-python3.8.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/bullseye/Dockerfile)
+* [`1.4.2-python3.8.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/slim-bullseye/Dockerfile)
+* [`1.4.2-python3.8.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/buster/Dockerfile)
+* [`1.4.2-python3.8.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/alpine3.18/Dockerfile)
+* [`1.4.2-python3.8.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/alpine3.17/Dockerfile)
+* [`1.4.2-python3.7.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/bullseye/Dockerfile)
+* [`1.4.2-python3.7.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.7/slim-bullseye/Dockerfile)
+* [`1.4.2-python3.7.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.7/buster/Dockerfile)
+* [`1.4.2-python3.7.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.7/alpine3.18/Dockerfile)
+* [`1.4.2-python3.7.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/alpine3.17/Dockerfile)
 
 ## Shared Tags
 
 * `1.5.0-python3.11-bullseye`, `1.5.0-python3-bullseye`, `1.5.0-bullseye`, `1.5.0-python3.11.3`, `1.5.0-python3.11`, `1.5.0-python3`,  `1.5.0`, `1.5-python3.11.3-bullseye`, `1.5-python3.11-bullseye`, `1.5-python3-bullseye`, `1.5-bullseye`, `1.5-python3.11.3`, `1.5-python3.11`, `1.5-python3`,  `1.5`, `latest`
-	* [`1.5.0-python3.11.3-bullseye`]()
+	* [`1.5.0-python3.11.3-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/bullseye/Dockerfile)
 
 * `1.5.0-python3.11-slim-bullseye`, `1.5.0-python3-slim-bullseye`, `1.5.0-slim-bullseye`, `1.5-python3.11.3-slim-bullseye`, `1.5-python3.11-slim-bullseye`, `1.5-python3-slim-bullseye`, `1.5-slim-bullseye`, `1.5.0-python3.11-slim`, `1.5.0-python3-slim`, `1.5.0-slim`, `1.5-python3.11.3-slim`, `1.5-python3.11-slim`, `1.5-python3-slim`, `1.5-slim`
-	* [`1.5.0-python3.11.3-slim-bullseye`]()
+	* [`1.5.0-python3.11.3-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/slim-bullseye/Dockerfile)
  
 * `1.5.0-python3.11-buster`, `1.5.0-python3-buster`, `1.5.0-buster`, `1.5-python3.11.3-buster`, `1.5-python3.11-buster`, `1.5-python3-buster`, `1.5-buster`
-	 * [`1.5.0-python3.11.3-buster`]()
+	* [`1.5.0-python3.11.3-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/buster/Dockerfile)
 
 * `1.5.0-python3.11-slim-buster`, `1.5.0-python3-slim-buster`, `1.5.0-slim-buster`, `1.5-python3.11.3-slim-buster`, `1.5-python3.11-slim-buster`, `1.5-python3-slim-buster`, `1.5-slim-buster`
-	* [`1.5.0-python3.11.3-slim-buster`]()
+	* [`1.5.0-python3.11.3-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/slim-buster/Dockerfile)
 
 * `1.5.0-python3.11-alpine3.18`, `1.5.0-python3-alpine3.18`, `1.5.0-alpine3.18`, `1.5-python3.11.3-alpine3.18`, `1.5-python3.11-alpine3.18`, `1.5-python3-alpine3.18`, `1.5-alpine3.18`, `1.5.0-python3.11-alpine`, `1.5.0-python3-alpine`, `1.5.0-alpine`, `1.5-python3.11.3-alpine`, `1.5-python3.11-alpine`, `1.5-python3-alpine`, `1.5-alpine`
-	* [`1.5.0-python3.11.3-alpine3.18`]()
+	* [`1.5.0-python3.11.3-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/alpine3.18/Dockerfile)
     
 * `1.5.0-python3.11-alpine3.17`, `1.5.0-python3-alpine3.17`, `1.5.0-alpine3.17`, `1.5-python3.11.3-alpine3.17`, `1.5-python3.11-alpine3.17`, `1.5-python3-alpine3.17`, `1.5-alpine3.17`
-	* [`1.5.0-python3.11.3-alpine3.17`]()
+	* [`1.5.0-python3.11.3-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.11/alpine3.17/Dockerfile)
 
 * `1.4.2-python3.11-bullseye`, `1.4.2-python3-bullseye`, `1.4.2-bullseye`, `1.4.2-python3.11.3`, `1.4.2-python3.11`, `1.4.2-python3`,  `1.4.2`, `1.4-python3.11.3-bullseye`, `1.4-python3.11-bullseye`, `1.4-python3-bullseye`, `1.4-bullseye`, `1.4-python3.11.3`, `1.4-python3.11`, `1.4-python3`,  `1.4`
-	* [`1.4.2-python3.11.3-bullseye`]()
+	* [`1.4.2-python3.11.3-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/bullseye/Dockerfile)
 
 * `1.4.2-python3.11-slim-bullseye`, `1.4.2-python3-slim-bullseye`, `1.4.2-slim-bullseye`, `1.4-python3.11.3-slim-bullseye`, `1.4-python3.11-slim-bullseye`, `1.4-python3-slim-bullseye`, `1.4-slim-bullseye`, `1.4.2-python3.11-slim`, `1.4.2-python3-slim`, `1.4.2-slim`, `1.4-python3.11.3-slim`, `1.4-python3.11-slim`, `1.4-python3-slim`, `1.4-slim`
-	* [`1.4.2-python3.11.3-slim-bullseye`]()
+	* [`1.4.2-python3.11.3-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/slim-bullseye/Dockerfile)
 
 * `1.4.2-python3.11-buster`, `1.4.2-python3-buster`, `1.4.2-buster`, `1.4-python3.11.3-buster`, `1.4-python3.11-buster`, `1.4-python3-buster`, `1.4-buster`
-	* [`1.4.2-python3.11.3-buster`]()
+	* [`1.4.2-python3.11.3-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/buster/Dockerfile)
 
 * `1.4.2-python3.11-slim-buster`, `1.4.2-python3-slim-buster`, `1.4.2-slim-buster`, `1.4-python3.11.3-slim-buster`, `1.4-python3.11-slim-buster`, `1.4-python3-slim-buster`, `1.4-slim-buster`
-	* [`1.4.2-python3.11.3-slim-buster`]()
+	* [`1.4.2-python3.11.3-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/slim-buster/Dockerfile)
 
 * `1.4.2-python3.11-alpine3.18`, `1.4.2-python3-alpine3.18`, `1.4.2-alpine3.18`, `1.4-python3.11.3-alpine3.18`, `1.4-python3.11-alpine3.18`, `1.4-python3-alpine3.18`, `1.4-alpine3.18`, `1.4.2-python3.11-alpine`, `1.4.2-python3-alpine`, `1.4.2-alpine`, `1.4-python3.11.3-alpine`, `1.4-python3.11-alpine`, `1.4-python3-alpine`, `1.4-alpine`
-	* [`1.4.2-python3.11.3-alpine3.18`]()
+	* [`1.4.2-python3.11.3-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/slim-bullseye/Dockerfile)
 
 * `1.4.2-python3.11-alpine3.17`, `1.4.2-python3-alpine3.17`, `1.4.2-alpine3.17`, `1.4-python3.11.3-alpine3.17`, `1.4-python3.11-alpine3.17`, `1.4-python3-alpine3.17`, `1.4-alpine3.17`
-	* [`1.4.2-python3.11.3-alpine3.17`]()
+	* [`1.4.2-python3.11.3-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.11/alpine3.17/Dockerfile)
+
+* `1.5.0-3.12-rc-bullseye`, `1.5.0-3.12.0a7`, `1.5.0-3.12-rc`, `1.5-3.12.0a7-bullseye`, `1.5-3.12-rc-bullseye`, `1.5-3.12.0a7`, `1.5-3.12-rc`
+	* [`1.5.0-3.12.0a7-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/bullseye/Dockerfile)
+
+* `1.5.0-3.12-rc-slim-bullseye`, `1.5-3.12.0a7-slim-bullseye`, `1.5-3.12-rc-slim-bullseye`, `1.5.0-3.12-rc-slim`, `1.5.0-python3-slim`, `1.5-3.12.0a7-slim`, `1.5-3.12-rc-slim`
+	* [`1.5.0-3.12.0a7-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/3.12-rc/slim-bullseye/Dockerfile)
+ 
+* `1.5.0-3.12-rc-buster`, `1.5-3.12.0a7-buster`, `1.5-3.12-rc-buster`
+	* [`1.5.0-3.12.0a7-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/3.12-rc/buster/Dockerfile)
+
+* `1.5.0-3.12-rc-slim-buster`, `1.5-3.12.0a7-slim-buster`, `1.5-3.12-rc-slim-buster`
+	* [`1.5.0-3.12.0a7-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/3.12-rc/slim-buster/Dockerfile)
+
+* `1.5.0-3.12-rc-alpine3.18`, `1.5-3.12.0a7-alpine3.18`, `1.5-3.12-rc-alpine3.18`, `1.5.0-3.12-rc-alpine`, `1.5-3.12.0a7-alpine`, `1.5-3.12-rc-alpine`
+	* [`1.5.0-3.12.0a7-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/3.12-rc/alpine3.18/Dockerfile)
+    
+* `1.5.0-3.12-rc-alpine3.17`, `1.5-3.12.0a7-alpine3.17`, `1.5-3.12-rc-alpine3.17`
+	* [`1.5.0-3.12.0a7-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/3.12-rc/alpine3.17/Dockerfile)
+
+* `1.4.2-3.12-rc-bullseye`, `1.4.2-3.12.0a7`, `1.4.2-3.12-rc`, `1.4-3.12.0a7-bullseye`, `1.4-3.12-rc-bullseye`, `1.4-3.12.0a7`
+	* [`1.4.2-3.12.0a7-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/3.12-rc/bullseye/Dockerfile)
+
+* `1.4.2-3.12-rc-slim-bullseye`, `1.4-3.12.0a7-slim-bullseye`, `1.4-3.12-rc-slim-bullseye`, `1.4.2-3.12-rc-slim`, `1.4-3.12.0a7-slim`, `1.4-3.12-rc-slim`
+	* [`1.4.2-3.12.0a7-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/3.12-rc/slim-bullseye/Dockerfile)
+
+* `1.4.2-3.12-rc-buster`, `1.4-3.12.0a7-buster`, `1.4-3.12-rc-buster`
+	* [`1.4.2-3.12.0a7-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/3.12-rc/buster/Dockerfile)
+
+* `1.4.2-3.12-rc-slim-buster`, `1.4-3.12.0a7-slim-buster`, `1.4-3.12-rc-slim-buster`
+	* [`1.4.2-3.12.0a7-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/3.12-rc/slim-buster/Dockerfile)
+
+* `1.4.2-3.12-rc-alpine3.18`, `1.4-3.12.0a7-alpine3.18`, `1.4-3.12-rc-alpine3.18`, `1.4.2-3.12-rc-alpine`, `1.4-3.12.0a7-alpine`, `1.4-3.12-rc-alpine`
+	* [`1.4.2-3.12.0a7-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/3.12-rc/slim-bullseye/Dockerfile)
+
+* `1.4.2-3.12-rc-alpine3.17`, `1.4-3.12.0a7-alpine3.17`, `1.4-3.12-rc-alpine3.17`
+	* [`1.4.2-3.12.0a7-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/3.12-rc/alpine3.17/Dockerfile)
+
+* `1.5.0-python3.10-bullseye`, `1.5.0-python3.10.11`, `1.5.0-python3.10`, `1.5-python3.10.11-bullseye`, `1.5-python3.10-bullseye`, `1.5-python3.10.11`, `1.5-python3.10`
+	* [`1.5.0-python3.10.11-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/bullseye/Dockerfile)
+
+* `1.5.0-python3.10-slim-bullseye`, `1.5-python3.10.11-slim-bullseye`, `1.5-python3.10-slim-bullseye`, `1.5.0-python3.10-slim`, `1.5.0-python3-slim`, `1.5-python3.10.11-slim`, `1.5-python3.10-slim`
+	* [`1.5.0-python3.10.11-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/slim-bullseye/Dockerfile)
+ 
+* `1.5.0-python3.10-buster`, `1.5-python3.10.11-buster`, `1.5-python3.10-buster`
+	* [`1.5.0-python3.10.11-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/buster/Dockerfile)
+
+* `1.5.0-python3.10-slim-buster`, `1.5-python3.10.11-slim-buster`, `1.5-python3.10-slim-buster`
+	* [`1.5.0-python3.10.11-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/slim-buster/Dockerfile)
+
+* `1.5.0-python3.10-alpine3.18`, `1.5-python3.10.11-alpine3.18`, `1.5-python3.10-alpine3.18`, `1.5.0-python3.10-alpine`, `1.5-python3.10.11-alpine`, `1.5-python3.10-alpine`
+	* [`1.5.0-python3.10.11-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/alpine3.18/Dockerfile)
+    
+* `1.5.0-python3.10-alpine3.17`, `1.5-python3.10.11-alpine3.17`, `1.5-python3.10-alpine3.17`
+	* [`1.5.0-python3.10.11-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.10/alpine3.17/Dockerfile)
+
+* `1.4.2-python3.10-bullseye`, `1.4.2-python3.10.11`, `1.4.2-python3.10`, `1.4-python3.10.11-bullseye`, `1.4-python3.10-bullseye`, `1.4-python3.10.11`
+	* [`1.4.2-python3.10.11-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/bullseye/Dockerfile)
+
+* `1.4.2-python3.10-slim-bullseye`, `1.4-python3.10.11-slim-bullseye`, `1.4-python3.10-slim-bullseye`, `1.4.2-python3.10-slim`, `1.4-python3.10.11-slim`, `1.4-python3.10-slim`
+	* [`1.4.2-python3.10.11-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/slim-bullseye/Dockerfile)
+
+* `1.4.2-python3.10-buster`, `1.4-python3.10.11-buster`, `1.4-python3.10-buster`
+	* [`1.4.2-python3.10.11-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/buster/Dockerfile)
+
+* `1.4.2-python3.10-slim-buster`, `1.4-python3.10.11-slim-buster`, `1.4-python3.10-slim-buster`
+	* [`1.4.2-python3.10.11-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/slim-buster/Dockerfile)
+
+* `1.4.2-python3.10-alpine3.18`, `1.4-python3.10.11-alpine3.18`, `1.4-python3.10-alpine3.18`, `1.4.2-python3.10-alpine`, `1.4-python3.10.11-alpine`, `1.4-python3.10-alpine`
+	* [`1.4.2-python3.10.11-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/slim-bullseye/Dockerfile)
+
+* `1.4.2-python3.10-alpine3.17`, `1.4-python3.10.11-alpine3.17`, `1.4-python3.10-alpine3.17`
+	* [`1.4.2-python3.10.11-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.10/alpine3.17/Dockerfile)
+
+* `1.5.0-python3.9-bullseye`, `1.5.0-python3.9.16`, `1.5.0-python3.9`, `1.5-python3.9.16-bullseye`, `1.5-python3.9-bullseye`, `1.5-python3.9.16`, `1.5-python3.9`
+	* [`1.5.0-python3.9.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/bullseye/Dockerfile)
+
+* `1.5.0-python3.9-slim-bullseye`, `1.5-python3.9.16-slim-bullseye`, `1.5-python3.9-slim-bullseye`, `1.5.0-python3.9-slim`, `1.5.0-python3-slim`, `1.5-python3.9.16-slim`, `1.5-python3.9-slim`
+	* [`1.5.0-python3.9.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/slim-bullseye/Dockerfile)
+ 
+* `1.5.0-python3.9-buster`, `1.5-python3.9.16-buster`, `1.5-python3.9-buster`
+	* [`1.5.0-python3.9.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/buster/Dockerfile)
+
+* `1.5.0-python3.9-slim-buster`, `1.5-python3.9.16-slim-buster`, `1.5-python3.9-slim-buster`
+	* [`1.5.0-python3.9.16-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/slim-buster/Dockerfile)
+
+* `1.5.0-python3.9-alpine3.18`, `1.5-python3.9.16-alpine3.18`, `1.5-python3.9-alpine3.18`, `1.5.0-python3.9-alpine`, `1.5-python3.9.16-alpine`, `1.5-python3.9-alpine`
+	* [`1.5.0-python3.9.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/alpine3.18/Dockerfile)
+    
+* `1.5.0-python3.9-alpine3.17`, `1.5-python3.9.16-alpine3.17`, `1.5-python3.9-alpine3.17`
+	* [`1.5.0-python3.9.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.9/alpine3.17/Dockerfile)
+
+* `1.4.2-python3.9-bullseye`, `1.4.2-python3.9.16`, `1.4.2-python3.9`, `1.4-python3.9.16-bullseye`, `1.4-python3.9-bullseye`, `1.4-python3.9.16`
+	* [`1.4.2-python3.9.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/bullseye/Dockerfile)
+
+* `1.4.2-python3.9-slim-bullseye`, `1.4-python3.9.16-slim-bullseye`, `1.4-python3.9-slim-bullseye`, `1.4.2-python3.9-slim`, `1.4-python3.9.16-slim`, `1.4-python3.9-slim`
+	* [`1.4.2-python3.9.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/slim-bullseye/Dockerfile)
+
+* `1.4.2-python3.9-buster`, `1.4-python3.9.16-buster`, `1.4-python3.9-buster`
+	* [`1.4.2-python3.9.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/buster/Dockerfile)
+
+* `1.4.2-python3.9-slim-buster`, `1.4-python3.9.16-slim-buster`, `1.4-python3.9-slim-buster`
+	* [`1.4.2-python3.9.16-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/slim-buster/Dockerfile)
+
+* `1.4.2-python3.9-alpine3.18`, `1.4-python3.9.16-alpine3.18`, `1.4-python3.9-alpine3.18`, `1.4.2-python3.9-alpine`, `1.4-python3.9.16-alpine`, `1.4-python3.9-alpine`
+	* [`1.4.2-python3.9.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/slim-bullseye/Dockerfile)
+
+* `1.4.2-python3.9-alpine3.17`, `1.4-python3.9.16-alpine3.17`, `1.4-python3.9-alpine3.17`
+	* [`1.4.2-python3.9.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.9/alpine3.17/Dockerfile)
+
+* `1.5.0-python3.8-bullseye`, `1.5.0-python3.8.16`, `1.5.0-python3.8`, `1.5-python3.8.16-bullseye`, `1.5-python3.8-bullseye`, `1.5-python3.8.16`, `1.5-python3.8`
+	* [`1.5.0-python3.8.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/bullseye/Dockerfile)
+
+* `1.5.0-python3.8-slim-bullseye`, `1.5-python3.8.16-slim-bullseye`, `1.5-python3.8-slim-bullseye`, `1.5.0-python3.8-slim`, `1.5.0-python3-slim`, `1.5-python3.8.16-slim`, `1.5-python3.8-slim`
+	* [`1.5.0-python3.8.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/slim-bullseye/Dockerfile)
+ 
+* `1.5.0-python3.8-buster`, `1.5-python3.8.16-buster`, `1.5-python3.8-buster`
+	* [`1.5.0-python3.8.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/buster/Dockerfile)
+
+* `1.5.0-python3.8-slim-buster`, `1.5-python3.8.16-slim-buster`, `1.5-python3.8-slim-buster`
+	* [`1.5.0-python3.8.16-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/slim-buster/Dockerfile)
+
+* `1.5.0-python3.8-alpine3.18`, `1.5-python3.8.16-alpine3.18`, `1.5-python3.8-alpine3.18`, `1.5.0-python3.8-alpine`, `1.5-python3.8.16-alpine`, `1.5-python3.8-alpine`
+	* [`1.5.0-python3.8.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/alpine3.18/Dockerfile)
+    
+* `1.5.0-python3.8-alpine3.17`, `1.5-python3.8.16-alpine3.17`, `1.5-python3.8-alpine3.17`
+	* [`1.5.0-python3.8.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.8/alpine3.17/Dockerfile)
+
+* `1.4.2-python3.8-bullseye`, `1.4.2-python3.8.16`, `1.4.2-python3.8`, `1.4-python3.8.16-bullseye`, `1.4-python3.8-bullseye`, `1.4-python3.8.16`
+	* [`1.4.2-python3.8.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/bullseye/Dockerfile)
+
+* `1.4.2-python3.8-slim-bullseye`, `1.4-python3.8.16-slim-bullseye`, `1.4-python3.8-slim-bullseye`, `1.4.2-python3.8-slim`, `1.4-python3.8.16-slim`, `1.4-python3.8-slim`
+	* [`1.4.2-python3.8.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/slim-bullseye/Dockerfile)
+
+* `1.4.2-python3.8-buster`, `1.4-python3.8.16-buster`, `1.4-python3.8-buster`
+	* [`1.4.2-python3.8.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/buster/Dockerfile)
+
+* `1.4.2-python3.8-slim-buster`, `1.4-python3.8.16-slim-buster`, `1.4-python3.8-slim-buster`
+	* [`1.4.2-python3.8.16-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/slim-buster/Dockerfile)
+
+* `1.4.2-python3.8-alpine3.18`, `1.4-python3.8.16-alpine3.18`, `1.4-python3.8-alpine3.18`, `1.4.2-python3.8-alpine`, `1.4-python3.8.16-alpine`, `1.4-python3.8-alpine`
+	* [`1.4.2-python3.8.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/slim-bullseye/Dockerfile)
+
+* `1.4.2-python3.8-alpine3.17`, `1.4-python3.8.16-alpine3.17`, `1.4-python3.8-alpine3.17`
+	* [`1.4.2-python3.8.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.8/alpine3.17/Dockerfile)
+
+* `1.5.0-python3.7-bullseye`, `1.5.0-python3.7.16`, `1.5.0-python3.7`, `1.5-python3.7.16-bullseye`, `1.5-python3.7-bullseye`, `1.5-python3.7.16`, `1.5-python3.7`
+	* [`1.5.0-python3.7.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.12-rc/bullseye/Dockerfile)
+
+* `1.5.0-python3.7-slim-bullseye`, `1.5-python3.7.16-slim-bullseye`, `1.5-python3.7-slim-bullseye`, `1.5.0-python3.7-slim`, `1.5.0-python3-slim`, `1.5-python3.7.16-slim`, `1.5-python3.7-slim`
+	* [`1.5.0-python3.7.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.7/slim-bullseye/Dockerfile)
+ 
+* `1.5.0-python3.7-buster`, `1.5-python3.7.16-buster`, `1.5-python3.7-buster`
+	* [`1.5.0-python3.7.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.7/buster/Dockerfile)
+
+* `1.5.0-python3.7-slim-buster`, `1.5-python3.7.16-slim-buster`, `1.5-python3.7-slim-buster`
+	* [`1.5.0-python3.7.16-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.7/slim-buster/Dockerfile)
+
+* `1.5.0-python3.7-alpine3.18`, `1.5-python3.7.16-alpine3.18`, `1.5-python3.7-alpine3.18`, `1.5.0-python3.7-alpine`, `1.5-python3.7.16-alpine`, `1.5-python3.7-alpine`
+	* [`1.5.0-python3.7.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.7/alpine3.18/Dockerfile)
+    
+* `1.5.0-python3.7-alpine3.17`, `1.5-python3.7.16-alpine3.17`, `1.5-python3.7-alpine3.17`
+	* [`1.5.0-python3.7.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.5/python3.7/alpine3.17/Dockerfile)
+
+* `1.4.2-python3.7-bullseye`, `1.4.2-python3.7.16`, `1.4.2-python3.7`, `1.4-python3.7.16-bullseye`, `1.4-python3.7-bullseye`, `1.4-python3.7.16`
+	* [`1.4.2-python3.7.16-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.7/bullseye/Dockerfile)
+
+* `1.4.2-python3.7-slim-bullseye`, `1.4-python3.7.16-slim-bullseye`, `1.4-python3.7-slim-bullseye`, `1.4.2-python3.7-slim`, `1.4-python3.7.16-slim`, `1.4-python3.7-slim`
+	* [`1.4.2-python3.7.16-slim-bullseye`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.7/slim-bullseye/Dockerfile)
+
+* `1.4.2-python3.7-buster`, `1.4-python3.7.16-buster`, `1.4-python3.7-buster`
+	* [`1.4.2-python3.7.16-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.7/buster/Dockerfile)
+
+* `1.4.2-python3.7-slim-buster`, `1.4-python3.7.16-slim-buster`, `1.4-python3.7-slim-buster`
+	* [`1.4.2-python3.7.16-slim-buster`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.7/slim-buster/Dockerfile)
+
+* `1.4.2-python3.7-alpine3.18`, `1.4-python3.7.16-alpine3.18`, `1.4-python3.7-alpine3.18`, `1.4.2-python3.7-alpine`, `1.4-python3.7.16-alpine`, `1.4-python3.7-alpine`
+	* [`1.4.2-python3.7.16-alpine3.18`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.7/slim-bullseye/Dockerfile)
+
+* `1.4.2-python3.7-alpine3.17`, `1.4-python3.7.16-alpine3.17`, `1.4-python3.7-alpine3.17`
+	* [`1.4.2-python3.7.16-alpine3.17`](https://github.com/ManuelSLemos/docker-python-poetry/blob/develop/1.4/python3.7/alpine3.17/Dockerfile)
 
 # Quick reference (cont.)
 

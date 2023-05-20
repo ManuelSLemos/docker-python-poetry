@@ -7,7 +7,7 @@ DISTRO_LIST = [
     'alpine3.17',
 ]
 
-DOCKER_REGISTRY_NAME = 'manuelslemos/docker-python-poetry'
+DOCKER_REGISTRY_NAME = 'manuelslemos/poetry'
 
 POETRY_VERSION_LIST = {
     '1.4': '1.4.2',
